@@ -5,3 +5,9 @@ security:
 management:
   security:
     enabled: false # turn of securing the actuator endpoints
+
+
+loggin:
+  level:
+    io:
+      pivotal:DEBUG
